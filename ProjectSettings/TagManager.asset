@@ -2,8 +2,13 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
-  tags: []
+  serializedVersion: 3
+  tags:
+  - Frog
+  - Obstacle
+  - Rock
+  - WoodStick
+  - Snake
   layers:
   - Default
   - TransparentFX
@@ -11,7 +16,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Particle
   - 
   - 
   - 
@@ -41,3 +46,32 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Shadow
+    uniqueID: 809787473
+    locked: 0
+  - name: Wave
+    uniqueID: 2940988823
+    locked: 0
+  - name: Frog
+    uniqueID: 2189675283
+    locked: 0
+  - name: Things
+    uniqueID: 870025689
+    locked: 0
+  - name: FrontShadow
+    uniqueID: 3110896699
+    locked: 0
+  - name: Front
+    uniqueID: 1727724813
+    locked: 0
+  - name: LoveAnim
+    uniqueID: 1444356339
+    locked: 0
+  - name: Enemy
+    uniqueID: 2600949969
+    locked: 0
+  - name: LittleRock
+    uniqueID: 1051589611
+    locked: 0
+  m_RenderingLayers:
+  - Default
